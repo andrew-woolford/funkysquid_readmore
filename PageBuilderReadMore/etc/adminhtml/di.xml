@@ -22,15 +22,15 @@
             <argument name="optionsSize" xsi:type="string">small</argument>
             <argument name="optionsData" xsi:type="array">
                 <item name="0" xsi:type="array">
-                    <item name="value" xsi:type="string">pagebuilder-button-primary</item>
+                    <item name="value" xsi:type="string">primary pagebuilder-button-primary</item>
                     <item name="title" xsi:type="string" translate="true">Primary</item>
                 </item>
                 <item name="2" xsi:type="array">
-                    <item name="value" xsi:type="string">pagebuilder-button-secondary</item>
+                    <item name="value" xsi:type="string">secondary pagebuilder-button-secondary</item>
                     <item name="title" xsi:type="string" translate="true">Secondary</item>
                 </item>
                 <item name="3" xsi:type="array">
-                    <item name="value" xsi:type="string">pagebuilder-button-link</item>
+                    <item name="value" xsi:type="string">text pagebuilder-button-link</item>
                     <item name="title" xsi:type="string" translate="true">Text Link</item>
                 </item>
             </argument>
