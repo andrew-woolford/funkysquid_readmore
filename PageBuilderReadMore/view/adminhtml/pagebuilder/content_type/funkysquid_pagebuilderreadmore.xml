@@ -41,9 +41,6 @@
                         <attribute name="buttons" source="buttons"/>
                         <css name="css_classes"/>
                     </element>
-                    <element name="module_information">
-                        <html name="module_information"/>
-                    </element>
                     <element name="visible_content">
                         <html name="visible_content"/>
                     </element>
